@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+                <title> eerste html opdracht </title>
+    </head>
+    <body>
+
+        <header>
+            
+            <main>    
+      <h1>Daar is'tie dan!!</h1> 
+    <h2>Be ready for more!</h2> </header> 
+     <hr/>
+<p>Ik zet hier de eerste schreden op het pad van HTML code schrijven en daarmee pagina's maken</p>
+
+<ul>
+  <li>zon</li>
+  <li>Bajo</li>
+  <li>Xavi</li>
+</ul>
+<ol> 
+ 
+  <li>zon</li>
+  <li>Bajo</li>
+  <li>Xavi</li>
+</ol>
+</main>
+
+<a href="http://www.shiatsuwinsum.nl">Shiatsuwinsum</a> 
+
+<p><img height="200" src="https://cdn.webshopapp.com/shops/288980/files/363291003/zon.jpg"></p> 
+
+<p><img height="200" src="C:\Users\Eigenaar\Desktop\website afbeeldingen/KORTE BROEK.jpg"></p>
+
+<nav><a href="C:\Users\Eigenaar\Desktop\2e_opdracht_HTML\2e_opdracht_html\about.html">Over mij</a></nav>
+
+<aside><a href="http://www.google.com">GOOGLE</a></aside> 
+
+</body>
+
+
+</html>
